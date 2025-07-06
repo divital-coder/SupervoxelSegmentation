@@ -1,0 +1,11 @@
+sudo lsof -t -i:5000 | xargs kill
+
+python3 -m vllm.entrypoints.openai.api_server \
+    --model nvidia/OpenMath-Nemotron-7B \
+    --trust-remote-code \
+    --seed=1 \
+    --host=0.0.0.0 \
+    --port=5000 \
+    --served-model-name nvidia/OpenMath-Nemotron-7B \
+    --tensor-parallel-size=2 \
+    --max-model-len=32768

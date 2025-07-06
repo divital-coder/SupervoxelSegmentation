@@ -1,0 +1,696 @@
+
+
+
+HEALTH SCIENCES DEPARTMENT
+PHYSIOTHERAPY
+LONG CYCLE MASTER’S STUDIES
+
+ANNISHA CHOGA
+Register No. 15854
+
+COMPARE AND CONTRAST THE EFFECTIVENESS OF APPLIED BEHAVIOR ANALYSIS THERAPY AND COGNITIVE BEHAVIOURAL THERAPY IN NEURO-MOTOR DEVELOPMENT OF CHILDREN DIAGNOSED WITH AUTISM SPECTRUM DISORDER.
+
+
+
+Diploma thesis done under the guidance of
+JAKUB MITURA, MD, PHD
+
+Lublin 2025
+ACKNOWLEDGEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABSTRACT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POLISH ABSTRACT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS 
+1.THEORETICAL PART
+1.1 INTRODUCTION	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ABBREVIATIONS 
+ASD
+ABA
+CBT
+TEACCH(Treatment and education of autistic and related communication handicapped children),
+Maternal immune activation (MIA) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+For centuries, the main focus of integrated therapy has been the preservation and care of human life.Advances in science have shifted perspectives by providing people with more knowledge and alternatives to manage. Holistic health progress has enabled earlier interventions, helping children grow towards independence and not only focus on alleviating physical symptoms but also aims to enhance overall quality of life and personal well-being across different areas. []
+The precision of Autism Spectrum Disorder (ASD) has been examined by numerous scholars and researchers over time. Each individual attempts to define and clarify with added viewpoints to the established definitions. Among those who focused on defining Autism were Leo Kanner, who uncovered distinct pattern of behaviors, such as difficulty in social interaction, repetitive behaviors, language delays and Hans Asperger, who detected similar behaviors with mild symptoms, later termed as Asperger Syndrome.Therefore ASD can be defined as a neurodevelopmental condition marked difficulties in social interactions, communication, and repetitive behaviors pointing to immune system dysfunction and neuroinflammation in the development of children. []
+ASD remains a global health concern, despite advancements in diagnosis and treatment, it continues to pose significant challenges  due to its chronic nature with prevalence prompting a need for effective therapeutic interventions to support cognitive, emotional and behavioral development. []
+ As a physiotherapist interesting questions arise as to what extent Applied Behavior Analysis Therapy (ABA) and Cognitive Behavioural Therapy (CBT)  are effective, what's the main task of physiotherapy in relation to neuro-motor development and the collaboration with other therapy professionals. To explore this, an empirical research was conducted using a diagnostic survey method, with a questionnaire specifically designed for this study, distributed through Google Forms and shared via social media platforms like Facebook and Messenger. The study also involved a comprehensive review of previous research on the effectiveness of ABA and CBT in children diagnosed with ASD. The goal was to investigate, compare, and assess their effectiveness in helping individuals with ASD and associated motor-neurodevelopmental issues, with the ultimate aim of enabling these individuals to lead normal lives, free from developmental abnormalities. 
+
+ABA and CBT are both widely recognised  treatment modalities  for children diagnosed with ASD and play a vital role, despite being distinct approaches. They are particularly relevant to motor-neurodevelopment, as they support the development, enhancement, practical application of motor skills, coordination and executive functioning. These therapies often involve collaboration with other professionals, such as behavior analysts and psychologists, to ensure that the treatment plan is holistic and integrated. []
+From a practical view in physiotherapy the primary role in both ABA and CBT therapy is to promote motor skill development, eliminate physical obstacles to therapy participation, and to provide a comprehensive approach to neuro-motor development in children with ASD. In ABA, focusing on motor skills through structured, task-oriented activities and in CBT, focusing on addressing physical or emotional challenges that might hinder the child’s full engagement in therapy hence a crucial role in supporting the child’s developmental progress.
+This study is structured into an introduction,  X chapters, and a results discussion. The first chapter introduces  ASD etiology, epidemology, techniques, and the impact on the development of children. The next chapters focus on empirical research: Chapter XY outlines the study's methods and subjects, while Chapter ZZZ the collected data in the context of existing literature. This analysis forms the foundation for assessing how effectively the research problem has been addressed and what conclusions can be drawn.
+
+
+
+
+
+
+
+CHAPTER I
+1.1. ASD
+Autism spectrum disorder (ASD) is a complex neurodevelopmental condition marked by cognitive challenges, behavioral abnormalities, social skill deficits, and repetitive behaviors, which typically become noticeable after a certain age [2]
+In 1943, Leo Kanner first used the term "autism" as a diagnostic label to describe a distinct syndrome in young children, characterized by an early onset, specific set of symptoms, and impaired social and emotional interactions.[8]
+Autism is commonly cited  as Autism Spectrum disorder (ASD) due to the wide variation in the severity and expression of  symptoms, which can range from mild social issues to serious developmental and behavioral difficulties. In addition it is comorbid with conditions like ADHD, obsessive-compulsive disorder, Tourette’s disorder[6], bipolar disorder, and schizophrenia,though many children show subthreshold symptoms, making it difficult to determine whether these are part of the autism spectrum or separate conditions. [1]
+Furthermore it is also linked to  intellectual disability (ID), EEG irregularities with or without the presence of epilepsy, distinctive physical features (dysmorphisms), and atypical findings on MRI scans.[8]
+The term autism encompasses the full autism spectrum, or pervasive developmental disorder (PDD) as outlined in the DSM-IV(Diagnostic and Statistical Manual of Mental Disorders 5th Edition)[6] and ICD-10 (international Classification of Diseases 10th Revision) by the World Health Organization.[8]
+The neurological causes behind the motor characteristics of autism—such as walking on toes, low muscle tone (hypotonia), and frequent repetitive movements like hand flapping, spinning, finger twisting, or waving hands in front of the eyes—remain unclear.ln addition Cognitive abilities are usually inconsistent, presenting a distinct neuropsychological pattern.[6]
+
+Due to the abnormal wiring between the different brain regions ASD is a psychological and heterogeneous developmental disorder therefore a neuropsychiatric syndrome possibly caused  by genetic and chromosomal variation, over-connectivity between neural assemblies, under-connectivity of functional brain regions, environmental factors, impairment in white matter connectivity and gray matter diffusivity[2]
+
+Autism's neurological causes are not fully understood, particularly regarding sensory issues. Children with autism may react oddly to sounds, avoid eye contact, or shy away from touch, while also failing to respond to pain or engaging in self-harming behaviors. They can be highly sensitive to tastes and textures, leading to very limited diets.[6]
+The idea of “syndromic autism” refers to ASD that occurs alongside physical features or symptoms that can aid in identifying specific genetic conditions, whereas “non-syndromic autism” describes idiopathic ASD that presents without any additional distinguishing signs or symptoms. Meanwhile, “multiplex autism” describes cases where multiple family members are affected, emphasizing the diverse and varied nature of ASD.[8]
+ASD remains a global health concern, despite abundant new research and treatment  strategies due to its idiopathic nature and has no cure therefore perpetual. The prognosis for diagnosed individuals is variable, regardless of early diagnosis leaving children not self governing and it may be catastrophic to them and loved ones, and may go through anxiety, stress, mental health issues.[1]
+
+According to demographic findings published in 2009 there is a dominant expansion of 1 in 150 compared to 1 in 2500 prevalence of autism in the 1980’s [1] and 3 in 10000 in 1970 [3]. The CDC estimated that in 2006, the prevalence of autism was 1 in 110 children, which increased to 1 in 88 by 2012. Currently, the prevalence is estimated at 1 in 68 births, or 14.7 per 1,000 children. [2]
+
+Research indicates that ASD is more prevalent among immigrants than native populations. Furthermore, the rates are lower in Latino populations compared to non-Latino groups, with similar rates observed across other ethnicities, also noting lower rates in populations with lower socioeconomic status though there is no well established studies supporting this.
+1.1 CHARACTERISTICS
+In the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), autism is categorized as one of the five pervasive developmental disorders (PDDs). It is defined by deficits in social interaction, communication, and repetitive behaviors. Impaired social interactions may manifest as poor eye contact, difficulty interpreting and using appropriate social gestures, challenges in reading facial expressions, absence of joint attention, and limited or inappropriate facial expressions. Additionally, a lack of empathy and reciprocity are common features of the disorder. Many children with autism desire friendships but struggle to initiate or sustain relationships, often lacking an understanding of what friendship entails.[1]
+Both verbal and nonverbal communication are often compromised in autism, with most affected children experiencing delays in language development. Around 30% of children with autism undergo a regression before 36 months of age, losing previously learned language skills. While some children are able to regain verbal abilities, others may never develop language. For those with functional speech, initiating and maintaining conversations outside of their specific interests is challenging. Their speech tends to be repetitive, often echoing phrases from others, media, or books.Nonverbal communication is also typically impaired, as children with autism may use inappropriate or inadequate gestures, such as failing to point or shake their head for "yes" or "no."[1]
+In addition to difficulties with social interaction and communication, children on the autism spectrum often exhibit repetitive behaviors or stereotyped patterns of interests. These behaviors may include intense, focused preoccupations, rigid routines, and an interest in specific parts of objects rather than the whole and it’s  known as self-stimulatory behaviors or "stimming," this may stem from the child's atypical sensory processing, which can be fulfilled through actions like spinning, arm flapping, or repetitive movements. [1]
+
+
+
+
+
+
+1.2 Early identification 
+Developmental delays are common in typically developing children but are often early signs of ASD in children, males often exhibit aggression, hyperactivity, and stereotyped behaviors, while autistic females tend to show more anxiety, depression, and greater intellectual impairment.[2]
+During pregnancy, detecting low IGF1 levels in umbilical cord blood using ELISA (enzyme-linked immunosorbent assay)could allow for early intervention to prevent autism symptoms. In high-risk cases, such as women with prior affected children, cordocentesis may be considered.[4]
+Symptoms can be identified in children as young as a few months old, with a reliable diagnosis often made by age 2 [1] due to arising irregularities in the physical and functional connectivity of neurons proven by disrupted sleep, depression, and anxiety. [2].Delayed or unusual speech development, poor eye contact, lack of interest in peers, and limited pretend play can emerge earlier. Additionally, children with autism may show limited social referencing using others’ actions to guide their own behavior which helps differentiate autism from other developmental disorders. [1]
+Early signs such as Macrocephaly ‘rapid head growth in the first two years, followed by slower growth in later childhood’ [2] [8]and the absence of babbling or gestures by 12 months, no single word by 16 months, no two-word phrases by 24 months, or a loss of language or social skills at any age require prompt evaluation. [1]
+Infants who are fed bovine milk or formula have a notable risk of developing autism compared to those who exclusively breastfed for the first few months of life because human breast milk is rich in IGF 1.[4]
+A reduction (or rarely an increase) in size of lobules VI and VII of the cerebellar vermis,  in few patients, observing widening of the parietal sulci and a smaller posterior corpus callosum, indicating possible atrophy, the process is considered dysgenetic rather than destructive of a reduction. [6]
+There is a reduced number of Purkinje cells and, to a lesser extent, granular cells in the posterior-inferior neocerebellar and arch cerebellar cortex (but not in the vermis), without any signs of gliosis or prior inflammatory or anoxic damage. [6]
+There are subtle cellular changes observed in limbic circuits, including the hippocampus, subiculum, entorhinal cortex, amygdala (except for its lateral nucleus), mammillary bodies, septum, and anterior cingulate gyrus.[6]
+Clinical anxiety is commonly found in individuals diagnosed with ASD. For children with ASD, significant anxiety can worsen social and communication difficulties, as well as increase tendencies toward restricted and repetitive behaviors. [b]
+Toddlers with developing ASD tend to focus more on the mouth region rather than the eyes, and exhibit weaker judgment abilities, this pattern suggests that gaze detection and positioning could be useful in diagnosing ASD due to reduced response of direct gaze, which typically triggers unprompted mental state attributions  and in contrast, stronger response to averted gaze compared to direct gaze, highlighting differences in gaze processing in autism.[2]
+The left temporal cortex plays a key role in social language understanding in typically developing children, however in children with ASD activity in this region is reduced, and this decline worsens with age therefore this helps detect neurodevelopmental problems in autism. Additionally, weak connections between multisensory functions and audiovisual speech processing, such as the McGurk effect, contribute to communication difficulties in individuals with ASD.[1]
+Other red flags include sensory sensitivities, sleep and feeding problems, and coordination issues. Before diagnosing ASD, other potential causes of developmental delays, like lead poisoning or genetic disorders (e.g., fragile X syndrome or neurofibromatosis), must be ruled out. Audiologic and visual tests are also necessary to check for hearing or vision issues that might explain some symptoms. [1] 
+About 30% of children with autism experience regression, another 30% have seizures, and up to 65% show abnormal brain activity. Mental retardation is present in 70% of cases, while few children have savant abilities. Other common symptoms include frequent infections, allergies, gastrointestinal issues, and behaviors such as inattention, aggression, impulsivity, hyperactivity, compulsions, emotional instability, and sometimes psychosis [1]
+1.3 DIAGNOSTIC TOOLS
+An autism diagnosis is ideally made by an experienced clinician using the DSM-IV, to ensure accuracy, additional tools like the Autism Diagnostic Observation Schedule (ADOS) [1][2] and the Autism Diagnostic Interview-Revised (ADI-R) are often used[8]. The ADOS is an interactive assessment based on the child's language skills, while the ADI-R involves a detailed interview with the caregiver, focusing on the child’s development from ages 3 to 4. A reliable diagnosis is best confirmed when both tools are used together, combining a parent-reported history with a clinician's objective evaluation. [1]
+Genetic testing typically starts with chromosomal microarray analysis (CMA), which is used to detect copy number variants (CNVs) in an effort to determine a potential cause of autism spectrum disorder.[8]
+Other tools, like the Social Communication Questionnaire (SCQ) and the Childhood Autism Rating Scale (CARS),Autism Behavior Checklist (ABC), Checklist for Autism in Toddlers (CHAT), Modified Checklist for Autism in Toddlers (M-CHAT), and Pervasive Developmental Disorder Screening Test (PDDST) can be used for screening purposes, although they do not provide definitive diagnoses. These tools help determine if further evaluation is necessary.[1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.4.DIFFERENTIAL DIAGNOSIS
+In the DSM-IV, the 3 major types of ASD are autistic disorder, Asperger's disorder, and PDD not otherwise specified (PDD-NOS) and are the most frequently diagnosed conditions, they can be hardest to distinguish within the PDD category.[1]
+ 	When autism symptoms are present without significant language or cognitive delays, Asperger's disorder is often diagnosed. However, a diagnosis of autism can also be appropriate, as language delays are common, though not required, while impairment is. The significant overlap in criteria for these disorders has led to considerable debate about whether Asperger's disorder is part of the (ASD) continuum as a form of high-functioning autism (HFA) or if it is a distinct disorder. HFA individuals have interests in specific topics, struggle with reading, writing, and math, possess unusually accurate memories for certain facts, show peculiar referencing during conversations, and be hypersensitive to sounds, lights, and odors supported by studies suggesting that children with HFA experience more frequent echolalia, pronoun reversal, and challenges with conversation and intonation compared to those with Asperger's disorder, though other studies have found no differences in these symptoms between the two. [1]
+	In some cases, autism may be linked to identifiable genetic or non-genetic conditions such as congenital rubella, tuberous sclerosis, fragile-X syndrome, Rett syndrome, [8]    Angelman’s syndrome, hydrocephalus, or others, though none of these conditions directly cause autism. There is also symptom overlap or comorbidity with other behaviorally defined developmental disorders, including intellectual disability, developmental dysphasia, obsessive-compulsive disorder, schizoid personality, attention deficit disorder, certain learning disabilities, and manic-depressive illness.[6]
+
+On the other hand, PDD-NOS is often diagnosed in children with subthreshold symptoms, without repetitive behaviors, or when language development is delayed. Childhood disintegrative disorder and Rett's syndrome(mostly in girls because of the mutations of X chromosome[2] and due to impaired methylation and mutations in the MECP2 gene[3] are  the other  diagnoses in the PDD category, which are much rarer and involve distinctive neurological regression, which makes them easier to differentiate from other ASDs.[1]
+Autistic regression shares similarities with acquired epileptic aphasia, also known as Landau-Kleffner syndrome (LKS). In most cases, children with LKS experience a loss of language due to severe difficulties in understanding spoken language, which is linked to centrotemporal EEG discharges affecting the auditory language cortex, as well as abnormalities in early cortical evoked responses.[6].
+Vitamin D plays a key role in neuronal growth and development, and deficiencies or metabolic issues therefore genetic variations in cytochrome P450 enzymes, particularly CYP27B1, which is crucial for vitamin D metabolism, have been associated with autism.[3]
+Autistic individuals often have heightened discrimination abilities, allowing them to detect small differences in features and visual search tasks; this unique trait can be considered an anomaly, as they are more focused on variations in their surroundings, which may distract others. These variations aid in processing stimulus information. Additionally, about 10% of individuals with autism possess exceptional skills known as "savant" abilities ( excel in mathematical calculations, have exceptional memory, and demonstrate remarkable artistic and musical talents).Although Autistic girls have a higher incidence of epilepsy than boys, which may contribute to their lower analytical abilities, hampers neurological function affecting social functioning [2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.5. PATHOPHYSIOLOGY
+Individuals with ASD are now often found to have genetic syndromes or chromosomal abnormalities, such as small deletions or duplications in DNA, single-gene disorders, gene variants, or metabolic issues involving mitochondrial dysfunction.[8]
+The brain's genetic and physiological structure is complex to the pathology of autism and early diagnosis is difficult due to the variability in symptoms and causes among individuals. Volumetric and neuroimaging help with exploring the neuroanatomy and neurochemicals [2], however Cytogenetic abnormalities in individuals with autism have been found on almost every chromosome.[3]
+Numerous genes contribute to the development of autism; a few cases are due to de novo mutations [8].The de novo genes are responsible for neuron motility, axon guidance, and synaptic development.A synaptic connection between neurons is referred to as a scale-free network because it evolves as the brain develops and the link between brain wiring and cognitive development helps improve knowledge of neurodevelopmental disorders.[2]
+Additionally, several single-gene disorders associated with high autism rates are identified, where molecular defects interfere with synaptic protein synthesis pathways, resulting in cognitive and neuronal dysfunction.[3]Alterations or mutations in the PTEN gene, which functions as a tumor suppressor and encodes the phosphatase and tensin homolog protein.[8]
+ASD is four times more common in boys than in girls.[1][3][8]According to an article published in 2012 boys are five times more likely to have the disorder than girls due to mutations in the X-chromosome PTCHD1 gene. The microdeletion of the PTCHD1 gene is inherited from the mother and is dominant in males, who have XY chromosomes, while it becomes recessive in females with XX chromosomes. Approximately 5% of male ASD cases are caused by rare inherited mutations, such as compound heterozygous, homozygous functional loss, and X-chromosome hemizygous mutations. [2][9]
+A decrease in IGF1(insulin-like growth factor 1) can impair the differentiation of oligodendrocyte precursor cells (OPCs) into functional oligodendrocytes, leading to myelin loss and demyelination, which can contribute to neurological disorders like multiple sclerosis and autism influenced by factors such as diet, pituitary function, age, body mass index, and genetic factors and typically girls have higher serum IGF1 hence 4:1 ratio. IGF1 plays a key role in normal neural function, including the myelination process in the central nervous system (CNS) and is primarily synthesized in the placenta during pregnancy, and then the liver (regulated by growth hormones (GH) )becoming the main site of production and distribution, though other cells produce it.[4][9]
+In cases of autism, myelination issues are thought to result from brain dysconnectivity during early development, due to detection of low IGF1 levels using ELISA in umbilical cord blood. The presence of certain genetic markers, such as the polymorphisms rs1801123 and rs878960, has been linked to a higher risk of autism in young children, and this deficiency can be addressed through breastfeeding, vitamin D supplementation, or IGF treatments to prevent autism development later in life.[4]
+
+Mutations in the CHD8 gene (chromodomain helicase DNA-binding protein 8) led to traits like macrocephaly and widely spaced eyes. Stereotyped behaviors, social interaction difficulties, and impaired synaptic transmission, which results from abnormal microglia-mediated synaptic pruning. Additionally, variations in the genetic structure affect the formation of the cortex's six distinct layers, which are crucial for learning and memory, leading to areas of disorganization in the brain's cortex [2]
+Certain gene mutations linked to (ASD) have been identified for some time, such as those in the TSC1/TSC2 (tuberous sclerosis complex) with newer ones like DYRK1A, and SCN2A also emerging.
+Genetic factors are widely recognized as contributing to autism, with increased risk among siblings, ranging from 4% to 10%. Identical twins have a 36% to 96% [1][2] chance of both being affected, compared to up to a 30% risk in fraternal twins.[8] Additionally, over 40 years fathers are nearly six times more likely to have a child with autism than younger fathers. However, no single autism-related gene has been identified, susceptibility to autism is thought to result from a combination of various genes. Specific genes linked to ASD include those on the 2q, 7q31-7q36, 15q11-15q13, and 16p13 loci, only a recent study identified a strong connection between the MET receptor gene at locus 7q31 and autism, suggesting a potential immune-gut-brain connection.[1
+Increased levels of extra-axial cerebrospinal fluid (EA-CSF) have been observed in infant brains that later develop autism,Cerebrospinal fluid (CSF) supports brain protection, nutrient transport, and waste removal. Disruptions in its development, particularly due to folate imbalance, can impair CSF flow and may lead to conditions like hydrocephalus.[1][4]
+Folate deficiency can lead to neural development issues, affecting CSF production and drainage. Folate receptor alpha antibodies (FRAA) are present in 75% of autism patients and have also been linked to neural tube defects. Additionally, folate deficiency may result in aluminum accumulation in the brain, which has been observed in autistic brains. FRAA in either the child or mother could explain both the folate deficiency and aluminum buildup.[1][5]
+Interestingly, while individuals with autism have a higher genetic risk for cancer, they tend to have lower cancer rates. Many cancer cells express folate receptor alpha to facilitate folate transport necessary for rapid cell growth. FRAA in autism may block these receptors on cancer cells, thus reducing folate transport and lowering cancer risk.[1][5][9]
+Most FRAA are of the IgG4 subclass, which binds more strongly to bovine folate receptors (found in cow's milk) than to human receptors. IgG4 is a part of the immune response that follows IgE, which is involved in allergic reactions.[1][5]. 
+Antigens in vaccines can trigger IgE-mediated sensitization. Many vaccines contain cow's milk proteins, including bovine folate receptor protein. To address potential vaccine-induced IgE reactions to FRA, vaccines should undergo processes like affinity chromatography to remove non-target proteins, such as those from cow's milk. [1][5]
+
+
+IgE and IgG4 antibodies help defend against parasitic worms, with IgE triggering strong reactions and IgG4 promoting a more controlled, tolerant response to avoid harm, this mechanism is mirrored in food allergy treatments, where gradual allergen exposure shifts the immune response from IgE to IgG4, reducing severe reactions. Similarly, in autism, some individuals produce IgG4 antibodies against bovine folate receptors. Consuming cow's milk increases these antibodies, which may worsen autism symptoms.[5]
+Approximately 25% of children with autism have elevated levels of serotonin in their blood, though the specificity and correlation with brain function are unclear. Risperidone, which blocks both dopamine and serotonin receptors, may help reduce self-injurious behaviors and tardive dyskinesia caused by dopamine receptor blockers. Serotonergic and indirect hypothalamic-neuroendocrine pathways, possibly involving proopiomelanocortin, cortisol, and oxytocin, may also be involved. Abnormalities in melatonin levels might explain the common sleep disorders observed in autistic children.[6][8]
+Neurobiologically autism affects the size of the corpus callosum, a bundle of nerve fibers connecting the brain's two hemispheres and essential for transmitting sensory, motor, and cognitive information due to increased cortical thinning in the frontal, parietal, and occipital lobes, as well as throughout the entire cortex . Abnormal brain connectivity is linked to a reduced intrinsic wiring potential in brain regions, which corresponds to lower wiring efficiency and shorter geodesic distances that reflect the complex surface structure of the brain.[2]
+Functional connectivity between brain regions is reduced in the frontal and temporal cortices leading to less efficient information transfer in the autistic brain, characterized by overconnectivity between neural networks and underconnectivity between functional brain regions; these disruptions contribute to language impairments and slower learning. Additionally, weak interhemispheric neural synchronization in toddlers with autism, with disrupted synchronization is observed during sleep and the strength of cortical synchronization is negatively correlated with autism severity, but positively correlated with verbal ability. Furthermore, atypical autonomic processing, such as low skin conductance , and decreased neuropsychological functioning are linked to the severity of ASD symptoms. [2]
+Immune system abnormalities, oxidative stress, neurotransmitter imbalances, and epileptic activities detected  in many individuals with autism, because of the weakened immune systems, evidenced by frequent infections and low lymphocyte counts. Conversely, others show signs of an overactive immune system, with elevated leukocytes, autoantibodies, and inflammatory cytokines suggesting inflammation could play a role in ASD development. This inflammatory process may also explain common gastrointestinal issues and allergies in affected children.[1]
+Around 30% of children with autism experience seizures, and up to 65% show abnormal brain activity, hinting at possible neuronal connectivity issues. High levels of glutamate, which can lead to excitotoxicity, are also found in these children. These issues, along with oxidative stress, contribute to the condition showing elevated levels of reactive oxidative species and low levels of antioxidants like glutathione and superoxide dismutase.[1]
+
+Brain abnormalities in autism are complex but suggest a unique growth pattern. Infants with autism typically have similar or slightly smaller brains than typically developing children, but these brains grow rapidly until age 4, after which growth slows. By adolescence, children with autism have brains of similar size to their peers, though with irregularities, such as enlarged white matter and reduced Purkinje cells. This pattern aligns with theories of inflammation, oxidative stress, and underconnectivity, though it is unclear whether these brain changes are primary causes of autism or secondary effects [1]
+Maternal immune activation (MIA) during pregnancy can lead to microglial activation, oxidative stress, and mitochondrial dysfunction in the fetal brain—factors that contribute to neuroinflammation and neurodevelopmental issues. Infections trigger the release of proinflammatory cytokines like IL-6 and TNF-α, which can cross the placenta or stimulate fetal immune responses. These cytokines may also penetrate the blood–brain barrier, activating microglia and setting off a cycle of inflammation and oxidative stress that disrupts brain development and behavior.[9]
+Exposure to interleukin-6 (IL-6)  and valproic acid (VPA) during pregnancy—a drug used for epilepsy and migraines—has been shown to adversely affect fetal brain development and peripheral tissues. Other potential risk factors include air pollution, advanced paternal age, and maternal conditions like diabetes, which has been linked to higher ASD risk in children and MIA is also being studied as a contributing factor. Epidemiological data suggest maternal infections during pregnancy—such as rubella, cytomegalovirus, or Toxoplasma gondii—can increase the risk of neurodevelopmental disorders like ASD, schizophrenia, and cerebral palsy. This connection was notably observed after the 1960s rubella epidemic, where 8–13% of children born with congenital rubella syndrome (CRS) were later diagnosed with ASD.[9]
+Cytokines like IL-6 are essential for a healthy pregnancy, but high levels during maternal immune activation (MIA) may negatively affect brain development in the fetus. Increased IL-6 has been found in the brains and cerebrospinal fluid of children with autism, and its presence in the placenta during MIA is linked to behavioral issues. However, it is still unclear whether this IL-6 comes from the mother, the placenta, or the fetus.[9]
+An increase in IL-6 within the placenta or fetal brain can trigger higher production of IL-17A, a cytokine that stimulates other inflammatory molecules like IL-6, IL-1β, TNF-α, GM-CSF, and G-CSF [43]. Elevated IL-17A levels have been found in the blood of children with autism and in the neutrophils of autistic patients [66, 67], often alongside markers of inflammation such as p-NFκB, IL-6, and NOX2/ROS. This indicates that IL-17A may play a key role in driving inflammation. Notably, high IL-17A is also linked to autoimmune diseases and brain disorders like epilepsy, ischemia, and multiple sclerosis.[9]
+Maternally derived antibodies, maternal infections, exposure to heavy metals, folic acid supplementation, epigenetic factors, measles, mumps and even electromagnetic radiation have all been linked to negative effects on the nervous system, neurodevelopment, and genes responsive to environmental factors, either directly or indirectly for example on average, children with autism have mercury levels that are twice as high as those of non-autistic children.[3]
+
+The environmental triggers of autism are more controversial,including prenatal or early postnatal exposure to viral infections, radiation, diesel exhaust, valproic acid (Depakote), or thalidomide (Thalomid) and increased mercury exposure from Thimerosal-containing vaccines,however maybe it is safer spacing vaccines over several months especially if immune deficiencies are suspected.[1]Furthermore, maternal hypothyroxinemia during pregnancy has also been found to be linked to ASD.[2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.6 TREATMENT 
+Introduced learning therapies and interventions[1]  improve parent-child interactions to help develop communication skills, and the ability to integrate multisensory speech improves, possibly due to factors such as hormonal changes after puberty, differences in myelination patterns along white matter tracts, and increased social interactions.[2]
+Anecdotal reports of successful early intervention are increasingly showing significant cortical plasticity of early development and positive outcomes from early educational and behavioral programs improving prognosis. Better outcomes are linked to higher IQ, language skills, and the ability to make cognitive shifts, core features of autism may remain stable, behavioral and medical interventions can greatly enhance adaptive skills.[1]
+Approximately 20% of the genes linked to autism are also recognized as cancer-related genes, sparking interest not only in the potential cancer risk among individuals with ASD but also in the possibility of using chemotherapeutic agents as part of treatment strategies.[8]
+Physiological findings suggest the existence of subgroups within autism, each potentially having different causes and treatment responses. A good example  is the genetic mutation responsible for about 2% of autism cases, which has distinct clinical features compared to other forms of autism. [1]
+Local regional centers often cover a variety of services, such as in-home behavioral therapy, occupational therapy (OT), and speech therapy.[1]
+
+
+
+
+
+
+
+
+
+
+
+
+1.6.2.PHARMACOLOGIC TREATMENT
+Treating ASD with psychopharmacological approaches is complex due to the wide variation in how the condition presents and the frequent presence of comorbid disorders. Individuals with ASD are often more sensitive to the side effects of psychiatric medications compared to neuron typically developing peers of the same age. Although many individuals with ASD are prescribed medications—most commonly stimulants, alpha-2 agonists, antipsychotics, anticonvulsants, and antidepressants—there are currently no medications approved specifically for addressing the core symptoms of ASD.[8]
+Pharmacologic treatments can help manage associated symptoms.Risperidone, an atypical antipsychotic, is FDA-approved for treating aggression, self-injurious behavior, and irritability in autism. It is also effective for rigidity and cognitive disorganization. However if it is ineffective or causes side effects, other antipsychotics like aripiprazole (Abilify) or quetiapine (Seroquel) may be helpful, though they can cause weight gain and sedation.[1][8]
+According to  Rodriguez, J. I., & Kern, J. K. (2011), therapies targeting neuroinflammation may help regulate microglial activity and strengthen neural connections since children  with ASD often exhibit lower levels of methionine, cystine, and glutathione, along with higher levels of oxidized glutathione, reduced cystine concentration contributes to elevated oxidative stress. Zonisamide, an antiepileptic medication, may help by boosting cystine influx and thereby lowering oxidative stress.[8]
+Selective serotonin reuptake inhibitors (SSRIs) like fluoxetine can reduce repetitive behaviors, cognitive rigidity, and anxiety, though side effects such as activation and appetite loss can occur and may also improve irritability and self-injurious behavior, although they are less commonly prescribed for these issues. [1]
+Studies on amantadine hydrochloride for treating children with autism spectrum disorder (ASD) have shown notable improvements in hyperactivity and inappropriate speech, based on clinician-rated ABC scores. Additionally, improvements were observed in overall clinical condition, as reflected in better Clinical Global Impressions (CGI) scores[9]
+Low IGF1 levels in children could be addressed by measures like breastfeeding, vitamin D supplementation, or IGF supplementation, potentially reducing the risk of autism.[1]
+Celecoxib, a selective COX-2 inhibitor, has shown potential as a low-dose adjuvant therapy with corticosteroids, improving speech, social responsiveness, and communication in individuals with ASD. Similarly, ORG 2766, an ACTH analog, significantly reduced symptoms like irritability, hyperactivity, and stereotypic behaviors. However, further controlled studies are needed to confirm the effectiveness of corticosteroids in treating ASD-related symptoms.[9]
+For ADHD symptoms, stimulants such as amphetamines and methylphenidate are used, but they can cause irritability, insomnia, and aggression. If stimulants are ineffective or cause too many side effects, alpha-agonists like guanfacine or clonidine, or norepinephrine reuptake inhibitors like Strattera, may be alternatives. Strattera's common side effects include fatigue and nausea.[1][8]
+Stimulant medications are regarded as the first-line treatment for attention deficit hyperactivity disorder (ADHD), as they are typically the most effective and are generally better tolerated than other types of ADHD medications. Regarding non-stimulant options for ADHD in individuals with ASD, both atomoxetine and alpha-2 agonists have demonstrated beneficial effects.[8]
+Lenalidomide, an immunomodulatory drug derived from thalidomide and commonly used to treat hematologic disorders, has been considered for its potential anti-inflammatory effects in ASD. If well-tolerated, it may help improve behavioral symptoms.[9]
+Mood dysregulation and affective instability may be managed with mood stabilizers like divalproex sodium, which has shown effectiveness in reducing mood instability, impulsivity, aggression, and repetitive behaviors and epileptic abnormalities.[1]
+Anticonvulsant medications like divalproex and topiramate have shown potential in managing irritability in children with ASD, though findings are mixed. Divalproex reduced irritability though no significant difference compared to placebo. Topiramate alone has not proven effective for irritability; however, when combined with risperidone, it led to improvements in symptoms. The possible benefit of anticonvulsants may be linked to their ability to address abnormal brain activity, as EEG abnormalities are common in children with ASD.[8]
+Exogenous melatonin, available as an over-the-counter supplement in both immediate-release and extended-release forms, has proven to be safe and effective in improving sleep patterns in children with ASD. Research suggests that children with ASD may have abnormal melatonin secretion and circadian rhythm disruptions compared to non-ASD children. Additionally, clonidine, an alpha-2 agonist, has shown potential in reducing the time it takes to fall asleep and minimizing nighttime awakenings in individuals with ASD.[8]
+Flavonoids—naturally occurring polyphenols found in fruits and vegetables—can suppress key enzymes and transcription factors involved in inflammation.Plant-based flavonoids like luteolin and quercetin in NeuroProtek revealed a significant reduction in IL-6 and TNF levels[9]
+
+
+
+
+
+
+
+
+1.6.2. BIOMED TREATMENT 
+Biomedical or complementary and alternative medical (CAM) treatments are widely used with surveys between 30% and 95% of children with autism using CAM therapies. Although the efficacy of these treatments is not scientifically proven.CAM treatments include hyperbaric oxygen therapy, omega-3 fatty acids for inflammation, methyl B12 and glutathione for oxidative stress, and chelation therapy for heavy metal toxicity. The gluten- and casein-free (GF/CF) diet is another popular treatment based on the theory that some children with autism have gut inflammation, referred to as "leaky gut," which may worsen symptoms. Some parents report significant benefits from the GF/CF diet, though these claims are not scientifically validated.[1]
+Pharmaceutical drugs like PPARg agonists, are used for inflammation, and memantine to reduce excitotoxicity in autism and it is very costly.[1]
+Several biomarkers, including low serum IGF1, elevated serotonin levels, anti-myelin basic protein, and specific SNPs, can help predict the future development of autism. Detecting these markers early could lead to earlier interventions, potentially improving long-term outcomes.[4]
+Educating families about the placebo effect and the importance of considering all treatment options will help them make the best informed choice for their child.[1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.6.3.BEHAVIORAL TREATMENT
+Various psychological therapies are utilized in managing Autism Spectrum Disorder (ASD) to support cognitive and social development. Techniques such as neurofeedback and speech therapy enhance cognitive abilities, while psychoeducational approaches help improve focus and attention. Applied behavior analysis (ABA) is effective in enhancing cognitive abilities[8] and  in fostering communication skills. The integration of 3D interactive technologies and visual graphics boosts engagement and activity quality. Dolphin-assisted therapy encourages the development of nonverbal communication. Moreover, virtual tools based on entertainment technologies enhance both speech and social interaction, and assisted reading programs support improvements in reading and comprehension.[2]
+Early Intensive Behavioral Intervention (EIBI) is a widely recognized treatment for young children with ASD, grounded in the principles of applied behavior analysis. Administered over several years at an average of 20 to 40 hours per week, EIBI has been shown to significantly improve core symptoms of ASD, especially in communication skills. For older children, social skills interventions, including group-based training, have demonstrated positive impacts on social behavior.[8]
+Cognitive Behavioral Therapy (CBT) can benefit adults with ASD in various areas, especially by addressing anxiety and obsessive-compulsive disorder (OCD), as well as helping those who struggle with issues stemming from past experiences of victimization.[8]
+Occupational therapy (OT) is valuable for addressing sensory integration issues and teaching children how to manage sensory input and self-regulate independently. Additionally, regular speech therapy sessions or assistive technologies, such as pictures and computers, help with language delays common in children with autism.[1]
+According to an article by Lai et al. (2012) they discovered  that in individuals with ASD, the left inferior frontal gyrus shows heightened activity during musical therapy but not speech stimuli therefore musical abilities are often preserved due to enhanced neural connectivity and responsiveness to music and music-based therapies may be beneficial in enhancing verbal communication among autistic individuals. Moreover, some individuals with ASD demonstrate exceptional abilities in areas such as problem-solving, visual arts, music, and innovation.[2]
+Complex mathematical problem-solving in children with ASD shows unique brain activation patterns in areas associated with perceptual processing and this indicates that problem-solving abilities, could be a valuable strength, enhancing their overall quality of life.[2]
+
+
+
+
+
+CHAPTER 2
+2.1.ABA & CB THERAPIES
+ASD impacts gross motor skills, fine motor coordination, postural control, and motor planning, which can affect daily activities and overall quality of life.The above mentioned neurological differences necessitate targeted interventions such as ABA and CBT. []
+Both therapies can be practised together [x] though in clinical and educational intervention settings, the integration of an ineffective treatment alongside a validated one may be detrimental. This is due to the potential for harmful interactions, misallocation of therapeutic resources, and the possibility of one treatment undermining the effects of another. [z]
+Behaviorism is categorized into methodological (observable focus), psychological (externally driven), and analytic (behavior-based interpretation of mental states). [y]
+consistent evidence supporting the benefits of CBT.
+2.2 ABA
+Applied Behavior Analysis (ABA) is a scientific discipline focused on implementing interventions, it is rooted in fundamental principles of behavior analysis that modify socially significant behaviors. Officially it was recognized as a distinct field in 1968 with the launch of its primary journal, the Journal of Applied Behavior Analysis, though its practices date back to the early 1900s.[y]
+This field is built on foundational research which entails the use of practices that are not grounded in scientific evidence, despite the availability of scientifically supported alternatives [s] as much as it involves nonhuman animals, to establish the core principles of behavior analysis. [y]
+ABA is a one-on-one behavioral intervention program, commonly used in home or school settings, that helps develop adaptive skills involving up to 40 hours of intervention per week, with younger children typically receiving more hours. The Denver Model builds on ABA, incorporating developmental, behavioral, and relationship-based approaches or include TEACCH(Treatment and education of autistic and related communication handicapped children), which focuses traits like visuospatial challenges and a preference for visual over verbal communication, and pivotal response training, which uses child-centered rewards to teach various skills. Parent training is also integrated to ensure consistency and support parents in meeting their child's needs effectively.[1]
+B.F.Skinner published The Behavior of Organisms, where he differentiated between respondent and operant behavior, introduced  the term radical behaviorism to distinguish his philosophy from classical behaviorism, emphasizing a more comprehensive approach to behavioral science. Unlike classical behaviorism, which disregards mental processes, radical behaviorism acknowledges private events such as thoughts and emotions within the framework of scientific behavior analysis. However, these internal experiences are viewed not as causes of behavior but as behaviors themselves.[y]
+In autism treatment, interventions are based on principles considered as evidence-based. Ivar Lovaas was the pioneer in developing strategies to decrease challenging behaviors while promoting language and social skill development.[y]
+ABA is not merely a treatment or therapy; rather, it is a scientific discipline focused on understanding and applying principles of behavior and is characterized by seven key principles outlined by Donal Baer, Montrose Wolf, and Todd Risley in the seminal paper ‘Some Current Dimensions of Applied Behavior Analysis’ in 1968 [y]
+Behavioral -focuses on observing and measuring real behaviors, not assumptions or emotions,tracking specific behaviors to see if treatment works and avoiding relying on indirect measures in order to ensure real behavior change.
+Applied -focuses on improving behaviors that have real-world significance, applying research to solve practical problems and identify meaningful goals, like teaching toileting skills, which improve quality of life and access to education and community settings.
+Effective- interventions based on clinical significance, ensuring meaningful, positive changes and they are tailored to each individual, with effectiveness determined through data and feedback
+Analytic - focuses on environmental factors that influence behavior, using controlled data collection and analysis to determine effectiveness through enviroment adjustment to encourage adaptive behaviors and reduce inappropriate ones, aiming to create positive, meaningful changes.
+Technological - a clear description of interventions so they can be consistently replicated to ensure treatments are accurately implemented, like specifying types of reinforcement using treatment fidelity checks to ensure consistency and effectiveness.
+Generality-fading of interventions gradually so that natural contingencies support the new behaviors over time for example, deep breathing to replace aggression, must happen outside therapy sessions
+Conceptually systematic-  it aligns with behavior principles and the behavior-environment interaction  for example, token economy to be effective
+"Behavioural Modification" or Behavioral therapy [s] is more widely accepted due to its strong connection to environmental influences. This change aims to emphasize the importance of behavior-environment interactions, and the effectiveness of this approach  is assessed on its long-term impact on a child's development into adulthood. [x]
+ABA is widely considered the best option and is typically the first recommendation. Many believe that intervening in identity formation at a young age(early intensive behavioral intervention (EIBI) ) is more effective than making adjustments later in life hence it is an bioethical principle of beneficence which emphasizes that all actions should be taken with the goal of benefiting patients.[x][y][z][s]
+ABA focuses on reinforcing positive behavior(offering an incentive),negative reinforcement, penalty,extinction and Antecedent-Behavior-Consequence (ABC) model to gradually shape using prompts ensuring skills are maintained and applied across settings hence cost-effective, regardless of whether the outcomes are full or partial.[z]
+However labeling a therapy as "applied" signifies that it is intended for real-world application, with its effectiveness determined by whether it produces meaningful and useful outcomes.[x]
+According to John.B Watson’s approach to behavioral science, known as stimulus-response (S-R) psychology, it emphasized how antecedent stimuli triggers behavior hence arguing  that all behaviors, including complex human actions, are driven by preceding events and it focused solely on observable behaviors and external events, rejecting internal processes like thoughts and emotions, however this view later was challenged by B. F. Skinner discovered that behavior could be shaped by its consequences rather than just antecedent events,and introduced the concept of operant conditioning, which demonstrated the importance of both preceding and following events in influencing behavior.[y]
+ABA seeks to reduce challenges, leading to lasting improvements by enhancing various behavioral aspects, such as IQ and language skills, academic achievement, and adaptive behavior, along with certain aspects of social behavior. For instance, a child struggling with language may become fixated on the results of every professional wrestling match and eventually withdraw from school due to frequent sensory overload.[x]
+Board Certified Behavior Analysts (BCBAs) established in 1998 apply behavior analysis techniques in real-world settings, working with diverse populations to achieve various intervention goals, their focus includes teaching new skills such as language development, promoting adaptive and healthy behaviors like physical activity, and addressing challenging behaviors such as aggression.[y]
+ ABA can be more or less contrived. in several intervention types such as:
+ Discrete Trial Training (DTT): A structured method of teaching where tasks are broken down into smaller steps, with clear instructions, prompts, and reinforcement provided.
+Verbal Behavior Therapy (VBT): Focuses on teaching communication skills by using the principles of ABA to improve verbal behavior, including speaking and using gestures.
+Pivotal Response Treatment (PRT): A more naturalistic approach that focuses on pivotal areas of a child's development, such as motivation and response to social cues.
+Natural Environment Teaching (NET): Uses everyday situations and natural environments to teach new skills, focusing on reinforcement in the real world.
+Early Intensive Behavioral Intervention (EIBI): A comprehensive approach aimed at young children with autism, focusing on early intervention to develop skills in communication, socialization, and daily living.
+Functional Behavior Assessment (FBA): identifies and analyzes the cause of problem behaviors, and develops interventions based on this analysis.
+Functional Communication Training (FCT): identifies the function of behavior by analyzing environmental influences, helping treatment teams choose effective interventions while avoiding ineffective ones.
+Behavioral Skills Training (BST):A method for teaching new skills through instruction, modeling, rehearsal, and feedback.
+The primary aim of ABA is to help autistic children integrate into society without requiring society to make significant adjustments to accommodate them as they are, therefore ABA is effective in decreasing inappropriate behavior while enhancing communication, learning, and appropriate social interactions.[x]
+Aberrant behavior is addressed through structured, individualized strategies, including functional analysis, skill-building, environmental adjustments, least restrictive interventions, reinforcement, problem-solving, familiar treatment staff, and active parental involvement. [y]
+Interventions focus on managing self-stimulatory behaviors, regulating special interests, improving social and developmental skills, and addressing safety concerns associated with ASD include [x]
+Stim Target – Addressing behaviors such as X’s arm shaking.
+Special Interest Target – Managing specific interests, like reducing X’s engagement with professional wrestling.
+Social Skill Target – Addressing challenges that hinder X’s ability to attend school.
+Developmental Skill Target – Focusing on fundamental difficulties, such as X’s language use.
+Immediate Danger Target – Treating conditions associated with ASD that pose an immediate risk. [x]
+In certain cases, participants exposed to ABA treatment show significant improvements in adaptive functioning and a reduction in challenging behaviors. When a skill is lacking, teaching that skill can lead to improvement, demonstrating the ability to transform a child's behavior from its current state to a level more comparable to peers without an autism diagnosis.[s]
+Overall ABA focuses on  supportive environment, skilled professionals, ongoing assessment, and evidence-based methods to promote independence and improving behaviors that have real-life significance, like potty training, to enhance the quality of life and provide greater opportunities for clients [s]
+
+
+
+
+
+
+
+
+
+
+2.2.1 DISADVANTAGES OF ABA
+ABA is criticized for violating bioethics by altering the identities of autistic children, particularly during their stage of identity formation. It can lead to unhealthy behavioral patterns and undermine or infringes a child's autonomy by focusing on making them conform to societal norms, rather than allowing them to embrace their unique qualities and passions. While parents may choose ABA, it risks teaching children that something is wrong with their authentic selves, encouraging them to blend in rather than express their true identity.[x][[s][y]
+One can argue that it is a  therapy that solely alters behavior without addressing the individual’s underlying motivations [x] 
+Behavior analysts focus on measuring the target behavior that needs improvement, rather than speculative factors like anxiety or emotion regulation. They prioritize tracking the behavior itself, such as aggression, over related proxy behaviors. While they don't use proxy behaviors to assess intervention outcomes. Additionally, behavior analysts often work on improving verbal communication in clients with communication difficulties.[y]
+ABA therapy is criticized for rewarding behaviors that make children seem "normal" instead of allowing them to engage in more constructive activities. It often neglects the child’s emotional well-being. While some aspects of ABA, like "analytic," are unproblematic, the "behavioral" component raises ethical concerns, especially with the use of aversive techniques like punishment or negative reinforcement to force compliance.[x]
+According to Henny Kupferstein (2018) and self-advocates, ABA has been linked to increased Post-traumatic stress disorder (PTSD) symptoms in autistic children. Critics argue that ABA often prioritizes social conformity over the individual’s well-being, using coercive techniques that neglect the child’s thoughts and feelings. While it may use positive reinforcement, even withholding praise can feel harmful because the approach focuses more on shaping behavior than understanding the person, raising ethical concerns about autonomy, identity, and the true benefit to the child.[x]
+Criticism of ABA centers on its focus on changing behavior without considering the child’s thoughts, emotions, or autonomy. It prioritizes outward conformity over inner well-being, often leading to “superficial” changes like masking autistic traits rather than addressing real needs. This can harm identity development and mental health, contributing to issues like stress and suicidality, therefore override a child’s autonomy, treating them as passive subjects rather than individuals with developing preferences and rights. Ethical concerns arise when children's voices are excluded from decisions about their care.[x]
+The critique highlights that autistic traits, like social withdrawal, may stem from societal mistreatment rather than personal deficits. True support should respect the individual's identity and rights, rather than reshaping them to fit social norms.[x]
+Success is measured by compliance, not by genuine growth or self-determined development. Moreover, traits often labeled as deficits, such as social withdrawal, may stem not from the individual but from societal failures like stigma, exclusion, and inaccessibility. Rather than “fixing” the child, interventions should focus on creating inclusive environments that respect neurodiversity and uphold the rights of autistic individuals.[x]
+ABA emphasizes the importance of structured routines to promote stability and reduce behavioral disruptions. A major barrier to effective treatment for individuals with autism is the occurrence of aberrant behaviors, which are often learned and maintained by consequences such as attention-seeking or escape from aversive demands.[z]
+Antecedent or precipitating factors—ranging from environmental and physiological to social influences—can increase the likelihood of these behaviors. Examples include hunger, illness, physical discomfort, or abrupt changes in routine. When tasks are overly difficult or when reinforcement for appropriate behavior is insufficient, children may exhibit aggression or other problem behaviors.[z]
+Treatment outcomes are compromised when decisions are guided by external factors (e.g., budgetary limitations) instead of individualized clinical data. Moreover, modifying ABA procedures beyond their evidence-based applications can render them ineffective.[z]
+Long-term maintenance of treatment gains, especially for aggressive behavior, requires robust follow-up. This involves repeated observations over time, rather than single data points, and a clear specification of the contingencies that were in place during the maintenance phase. Such detail allows clinicians to identify the key variables responsible for durable behavioral change.[z]
+Before applying the ABA method, a typical child needs to practice a specific type of vocabulary four to five times (over four to five days) with poor judgment and ineffective strategies to begin learning.[s]
+Parents are given the power to choose ABA for their children, but this approach can potentially shape a child’s identity by discouraging the development and pursuit of their personal interests. It may also send the message that there is something inherently wrong with who they are, promoting conformity over individuality.[x]
+The reason for discrepancies in ABA research results lies in the wide variety of treatment components that fall under the ABA umbrella. This diversity exists because comprehensive treatment models and curricula have been developed, all of which align with the seven core dimensions of ABA, while also sharing many theoretical foundations and methods, such as Essential for Living and Pivotal Response Training.[s]
+Different versions of ABA-based methods used within these systems may lead to varying outcomes. Factors like the setting, the structure of training, and the intensity of care can all influence results.[s]
+In many cases, ABA treatment is used as a broad term, often without distinguishing between the various treatment elements. Most studies are smaller exploratory investigations, rather than large-scale trials with predictive models designed to identify the specific variables that affect treatment success.[s]
+Tau (a specific treatment) only improves the targeted skills directly involved in the intervention. It doesn't lead to a broader improvement in the child's overall adaptive functioning.[s]
+
+While improving targeted skills is important, there may be added value in interventions that go beyond teaching specific responses. These interventions might also foster flexibility in language and cognitive abilities, or generalize effects to a wider range of the learner’s abilities.[s]
+Applied behavior analysis, which has been thoroughly reviewed in other sources, does not focus on intervening with conscious cognition (such as expectations, attitudes, or attributions).[b]
+Autistic individuals who learn to mask their traits—such as suppressing reactions to overwhelming sounds, smells, or lights—may appear to function "normally," but this doesn't eliminate their discomfort. Beneath the surface, their autistic brain and nervous system remain unchanged. These efforts to camouflage behavior represent superficial changes that go against their natural makeup and often focus more on fitting into environmental expectations than supporting the person’s well-being. Such masking has been linked to mental health struggles, including suicidality. Additionally, radical behaviorism, which emphasizes external control over behavior, often clashes with modern bioethics—especially the principle of respecting personal autonomy.[x]
+The perceived lack of social interest often seen as a key trait of autism is, in part, shaped by society’s misunderstanding. Instead of blaming or trying to "fix" the autistic individual, the focus should be on addressing the real issues—social stigma, exclusion, and inaccessible environments—along with the emotional harm these experiences cause.[x]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.3 CBT
+Cognitive–behavioural therapy (CBT) is a practical, goal-oriented method that helps children recognize how their thoughts, emotions, and actions are connected. [a]
+CBT is well-supported as an effective treatment for emotional issues in children and teens. It also shows potential benefits for those with physical or chronic health conditions, though more research is needed to confirm these effects. [a][b]
+In children with ASD who are considered "high-functioning," talk-based therapies like CBT have been used to address various co-occurring issues, including anxiety, aggression, and difficulties with social functioning.[b]
+The goal is to recognize the negative, biased and distorted thoughts linked to psychological issues. Through this process, individuals learn to develop healthier coping skills and replace them with more balanced thinking patterns that reduce emotional distress and encourage more positive behaviors.[a]
+CBT is not just about thinking positively; it acknowledges the actual reality of the situation.lt is typically short-term, with many interventions taking place over 6–12 sessions. Although it was initially designed for in-person delivery, it can also be conducted remotely through phone or online platforms.CBT treatment can be with BIACA (Behavioral Interventions for Anxiety in Children with Autism) for about 32 weeks or TAU (Treatment as usual) for 16 .[a]
+
+This type of therapy focuses on the link between thoughts, emotions, and behaviors. It suggests that emotional distress stems from how we interpret events, and these interpretations can become negatively biased, leading to distorted thinking and unhelpful responses. (eg, feelings of anxiety, depression or anger) [a]
+According to Dobson and Dozois, cognitive behavioral therapies are based on three key assumptions. First, cognitive activity influences behavior; second, cognitive activity can be monitored and changed; and third, behavioral change can occur through cognitive changes. CBT combines both cognitive and associative techniques as complementary approaches.[b]
+
+CBT is a 5 Stage therapy 
+The initial phase involves psychoeducation, focusing on engagement and building the therapeutic relationship. 
+The second phase promotes self-awareness through cognitive formulation. 
+ the third phase, the child develops skills to challenge dysfunctional thoughts, manage emotions, and change unhelpful behaviors, with a focus on enhancing skills like assertion and negotiation. 
+The fourth phase is consolidation, where new cognitive, emotional, and behavioral skills are integrated into daily life, and effectiveness is reviewed as the child's coping strategies are refined.
+ The final phase, relapse prevention, encourages the child to reflect on the most helpful aspects of the intervention, prepare for potential relapses, and create a plan to manage any issues that may resurface.
+Research suggests that CBT is a promising treatment for individuals with ASD. However, further evaluation of the existing evidence is needed due to the preliminary nature of studies, which have generally involved small samples of children with ASD. [b]
+Wood et al. noted that CBT programs for children with ASD should not only address specific symptoms (such as anxiety or aggression) but also focus on improving social skills, promoting self-care to address adaptive deficits, and using the child's specific interests to engage them in therapy. While these adaptations have not been empirically studied, they appear to make CBT more suitable and accessible for children with ASD.[b]
+CBT treatments have targeted both the core aspects of ASD (such as social communication difficulties) and co-occurring emotional and behavioral issues like anxiety and aggression. Comorbid disorders are more common in youth with ASD compared to typically developing youth or those with other serious behavioral conditions. Additionally, most individuals with ASD experience significant impairments in daily life, including challenges in social interactions, school, and self-care, as well as symptoms related to communication deficits, attention control, and emotion regulation.[b]
+Systematic reviews consistently show that CBT is effective in treating anxiety, depression, post-traumatic stress disorder, obsessive-compulsive disorder, chronic pain, and needle-related pain. It is also effective for managing anxiety in children with autism spectrum disorder, and there is some evidence supporting its effectiveness in addressing anxiety related to long-term physical health conditions and in treating sleep issues in adolescents.[a][b]
+CBT programs for anxiety aim to identify fearful thoughts, develop realistic beliefs to challenge irrational fears, and gradually face feared situations with newfound confidence. While most CBT programs for ASD follow these general principles, the specific protocols and adaptations for children with autism can vary.[b]
+
+
+Automatic thoughts can trigger  a lot and often, the child responds by avoiding or refusing a procedure, which may provide temporary relief but prevents them from learning that they are capable of handling the situation for example often exaggerate the level of threat or danger while downplaying their own ability to handle the situation or for instance, a child who feels anxious about medical procedures involving needles might think, "This will be extremely painful" or "I'll faint and embarrass myself."[a]
+ 	CBT, originally developed for adults, can be adapted for young children (5–8 years) by using non-verbal materials, simple language, concrete metaphors, and a focus on activities, making it effective for their cognitive and emotional development.
+Complex cognitive processes can be made easier to understand. For instance, the 4CS method ('catch it, check it, challenge it, change it') offers a simple approach to remembering how to identify, evaluate, and reassess thoughts.
+
+
+Negative, self-critical thoughts can lead to feelings of hopelessness and sadness, which in turn result in a lack of interest, motivation, and social withdrawal, making it difficult to engage in everyday or enjoyable activities.[a]
+ 	Socratic dialogue and behavioral experiments help children challenge negative thoughts and develop more balanced, functional thinking. This reduces emotional distress and avoidance, fostering motivation and recognizing both challenges and strengths.For instance, a thought like, "My friends won’t want to hang out with me" may shift to, "It’s difficult for my friends to visit me in the hospital, but my card shows how much they care."[a]
+In CBT, both the child and their parents actively participate in understanding and addressing issues through "collaborative empiricism." The therapist guides the child in discovering new information and testing their thoughts through experiments to challenge biased or unhelpful thinking.[a][b]
+
+In some cases, parents must be more actively involved by attending most CBT sessions and another effective approach for younger children with disorders is to train and support parents to deliver CBT directly to their child though level and manner of parental involvement will vary depending on the situation.
+The anxiety disorders addressed mostly using CBT in ASD children is  Social Phobia (SoP), Generalized Anxiety Disorder (GAD), Separation Anxiety Disorder (SAD), Obsessive-Compulsive Disorder (OCD), school anxiety, Specific Phobias (SP), and Panic Disorder (PD), as determined by diagnostic measures.[b]
+
+
+
+
+
+
+
+
+
+
+
+2.3.1 DISADVANTAGES
+Parents' guilt and overprotectiveness in managing their child's illness can unintentionally reinforce the child's negative thought patterns.
+Progress and changes in emotional states and thoughts are regularly evaluated and measured through ongoing monitoring and the use of rating scales.
+CBT is not ideal for individuals who wish to explore past events that may have contributed to their current issues. Additionally, its active and collaborative nature may not be suitable for those who prefer a more directive, clinician-led approach
+If the child's issues are linked to broader family or systemic problems, then a more individual-focused approach like CBT may not be suitable.
+Motivation and engagement are essential for any psychotherapeutic treatment. While the initial phase of CBT focuses on boosting motivation, it is important for the individual to acknowledge the problem, set clear goals, and recognize the need for change. Without these elements, CBT, like any other therapy, will not be effective.
+There is limited research on the effectiveness of CBT for young children (under 9 years) or for treating health issues, pain, or fatigue in children with long-term or chronic physical health conditions.
+CBT, traditionally delivered face-to-face, is now being adapted for digital formats such as computer-based programs and apps; the results are still limited, though show promise.
+Traditional CBT aims to change dysfunctional thoughts, but some people may not respond. 
+A limitation can be when a participant had not been formally diagnosed with anxiety prior to treatment, making it impossible to assess whether an anxiety diagnosis was in remission after treatment.
+The diagnostic interviews should be  conducted by a diagnostician with experience because some therapists are   unaware of the treatment condition, which introduces some uncertainty in assessing outcomes. Additionally, treatment fidelity might not be evaluated in some cases. [b]
+
+
+
+
+
+
+
+2.4.Problem statement
+Autism Spectrum Disorder (ASD) is a lifelong and multifaceted neurodevelopmental condition characterized by difficulties in social communication, limited interests, repetitive behaviors, and frequently, notable motor impairments. 
+These motor challenges—which may include issues with coordination, posture, and delays in both gross and fine motor skills—can hinder a child’s ability to engage with their surroundings, take part in physical activities, and reach developmental milestones. 
+As such, timely and effective intervention is essential not only for supporting cognitive and behavioral growth but also for fostering motor development, which plays a crucial role in a child’s overall independence and quality of life.
+Physiotherapy is essential in supporting the motor development of children with ASD, focusing on areas such as balance, coordination, posture, and muscle strength. However, for the best possible outcomes, physiotherapy should be combined with other therapeutic strategies that also address the behavioral and cognitive aspects affecting motor skills. 
+Two of the most commonly used psychological approaches in managing ASD are Applied Behavior Analysis (ABA) and Cognitive Behavioral Therapy (CBT). These interventions have demonstrated promise in shaping developmental progress through structured and goal-driven methods.
+Applied Behavior Analysis (ABA) is a behavior-focused, evidence-based therapy that relies on positive reinforcement to teach and reinforce targeted behaviors, including those related to motor skills. Widely implemented in both educational and home environments, ABA has been shown to improve attention, cooperation, and task completion—factors that can indirectly support the development of motor skills.
+On the other hand,Cognitive Behavioral Therapy (CBT), though originally designed to treat anxiety and mood disorders, is increasingly being tailored for children with ASD. CBT emphasizes the link between thoughts, emotions, and behaviors, helping children better manage emotional responses, sharpen their focus, and increase body awareness—all key elements in effective motor planning and execution.
+Although interest in both ABA and CBT continues to grow, there is still a significant lack of research directly comparing their effectiveness in promoting motor neurodevelopment in children with ASD. The majority of current studies primarily emphasize cognitive and behavioral outcomes, offering limited insight into how these therapies might support or enhance psychotherapies like physiotherapy when specifically adapted for motor skill development. This gap in the literature makes it challenging for clinicians, therapists, and caregivers to make informed, evidence-based decisions about the most effective integrated strategies to foster motor development in children on the autism spectrum.
+
+
+
+This study aims to compare the effectiveness of ABA and CBT to promote motor neurodevelopment in children with ASD. By assessing improvements in motor function, coordination, and physical involvement, the research intends to offer valuable insights into which therapeutic approach produces more significant results. Ultimately, the goal is to inform best practices in multidisciplinary intervention planning for children on the autism spectrum.
+Furthermore, this study will explore the extent to which various demographic, clinical, and therapeutic variables influence the effectiveness of multidisciplinary interventions aimed at enhancing motor neurodevelopment in children with Autism Spectrum Disorder (ASD). Key factors such as age, gender, ethnicity, autism severity, and the duration and mode of therapy delivery (individual versus group-based) will be critically examined.in addition, the impact of co-occurring conditions—such as anxiety, epilepsy, attention-deficit/hyperactivity disorder (ADHD), and other common comorbidities—will be assessed to determine their influence on intervention outcomes. 
+This systematic review will also take into account the role of additional therapeutic modalities often integrated within ASD, including physiotherapy, occupational Therapy (OT), which targets fine motor skills and daily functional activities; Sensory Integration Therapy, which addresses sensory processing difficulties that can hinder motor planning and execution; and Neurodevelopmental Treatment (NDT), which aims to improve movement quality through guided motor control techniques. By evaluating these factors within a comprehensive therapeutic framework, this research aims to provide evidence-based insights into how individualized and contextual variables may shape the effectiveness of interventions such as ABA and CBT in promoting optimal motor outcomes for children with ASD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.5 Purpose of study/work
+The main objective of this study is to evaluate and compare the effectiveness of Applied Behavior Analysis (ABA) and Cognitive Behavioral Therapy (CBT) in enhancing motor neurodevelopment among children with Autism Spectrum Disorder (ASD) based on their multifunctionality, effectiveness in improving motor skills, and impact on functional independence. 
+Although both approaches have shown positive outcomes in addressing cognitive and behavioral challenges, their direct influence on motor skills—especially when combined with physiotherapeutic interventions—has not been thoroughly investigated. 
+This study aims to determine the degree to which ABA and CBT contribute to the development of motor abilities, including coordination, balance, posture, physical activity and fostering functional independence in daily activities, such as self-care . By analyzing therapeutic outcomes and considering influential variables such as age, severity of ASD, duration of treatment, and co-existing conditions, the research seeks to offer evidence-based insights for healthcare professionals. 
+The ultimate aim is to guide the formulation of effective, multidisciplinary intervention strategies that promote motor development and enhance the overall independence of children living with ASD.
+The below ranking of treatment methods are based on their anticipated effects, guided by the verification of the research hypotheses. By systematically evaluating the outcomes, the study aims to inform best practices in selecting and implementing therapeutic interventions for children with ASD.
+
+
+
+
+
+
+
+
+
+
+
+
+2.6 Hypothesis
+These hypotheses are insightful and reflect different approaches to understanding the potential impact of ABA and CBT on motor neurodevelopment in children with ASD. Each hypothesis highlights a different aspect of therapy's influence on motor skills, cognition, and emotional regulation, which is important for such a multifaceted condition.
+Hypothesis 1: ABA may be more effective due to its structured reinforcement and task-based approach. This aligns with the behaviorist model of ABA, which is often used to target specific motor tasks and skills. It assumes that direct, repetitive practice will lead to better motor coordination.
+
+
+Hypothesis 2: CBT’s indirect effects on motor function through cognitive and emotional improvements are intriguing. Enhancing focus, emotional regulation, and body awareness could theoretically improve motor planning and execution. However, the relationship between cognition and motor skills in this context would need further exploration.
+
+
+Hypothesis 3: The combined approach with physiotherapy offers an interesting angle, acknowledging that both ABA and CBT can contribute complementary skills. This is particularly important for children with ASD who may have overlapping motor, emotional, and cognitive challenges. The idea is that ABA might focus on motor skills directly, while CBT supports the underlying cognitive and emotional processes that can improve engagement in physical tasks.
+
+
+Hypothesis 4: The role of individual differences, such as age, severity of ASD, and co-occurring conditions, is critical. Some children might respond better to ABA, while others could benefit more from CBT. This hypothesis emphasizes the need for personalized treatment plans based on these variables.
+
+Hypothesis 5: Females with ASD are much better than males with ASD at imitating behavior that is socially accepted because of the more interesting trait in females with ASD ‘camouflaging’
+
+
+Hypothesis 6: The direct focus of ABA on skill-building through task repetition and reinforcement may indeed be more effective for improving functional motor skills. This hypothesis is likely to hold if motor skills development is viewed through the lens of practice and reinforcement.
+
+
+Hypothesis 7: The combination of therapies could offer a more holistic approach, potentially leading to greater improvements in motor skills. This hypothesis suggests that addressing both the physical (physiotherapy) and cognitive-emotional (ABA and CBT) aspects can provide better outcomes than physiotherapy alone.
+Each of these hypotheses provides a useful framework for exploring how different therapeutic approaches may impact motor development in children with ASD. The focus on both direct motor skill training (ABA) and cognitive-emotional support (CBT) offers a broad perspective on how best to support children with diverse needs.
+CHAPTER 3 METHODOLOGY:
+3.1 Method
+This chapter outlines the research methodology employed to investigate the effectiveness of ABA and CBT in the motor-neurodevelopment of children diagnosed with ASD.
+The chosen method was selected to ensure the reliability and validity of the findings and to align with the overall research objectives and to gain comprehensive insights into the effectiveness of both therapies.
+3.1 Search strategy
+A comprehensive data search was conducted to identify relevant studies addressing the effectiveness of Applied Behavioural Analysis and Cognitive Behavioural Therapy in motor-neurodevelopment of children diagnosed with ASD. Electronic databases including PubMed, Cochrane Library, Science Direct, PsycINFO and Google Scholar were searched for peer-reviewed articles published between 2013 and 2024. The search was carried out between 10/24-04/25.
+The following keywords and Boolean operators were used:
+ Autism, ASD, CBT, ABA,motor neurodevelopment, children, fine motor skills, gross motor skills, inflammation, cytokines, immune response, treatment, intervention, therapy and response to caregiver .
+ Medical Subject Headings (MeSH) terms were also applied where appropriate to improve the sensitivity of the search.
+
+
+
+
+
+
+
+
+
+3.3. Eligibility Criteria
+Articles were eligible for inclusion if 
+intervention given was either  ABA or CBT
+only involving human participants
+children aged 4 to 14
+participants  were children diagnosed with ASD based on DSM-5 or ICD-10/11 criteria
+Minimum therapy duration: at least 6 months (to ensure observable effects).
+reporting original data (age, gender, severity level)
+preferred language (english)
+gathered data via a questionnaire filled out online
+participation was entirely voluntary by  Caregiver or parent 
+fully informed concern and information treated with utmost confidentiality
+anonymity fully guaranteed
+The collected data is evaluated and aligns with the PICO framework, ensuring feasibility through clearly defined
+ Populations: Children with Autism Spectrum Disorder (ASD)
+ Interventions: Applied Behavior Analysis (ABA)
+Comparisons:Cognitive Behavioral Therapy (CBT)
+Outcomes: related to motor neurodevelopment in children with ASD. 
+Additionally, analyzed using the SPIDER framework to capture experiential and perception-based insights.
+Sample: General public, parents, therapists
+PI: Opinions on ABA/CBT effects on motor development
+Design: Questionnaire survey
+Evaluation: Likert scale or open-ended responses
+Research type: Descriptive or mixed
+ Where applicable, the ABC (Antecedent-Behavior-Consequence) behavioral model was also employed to interpret intervention strategies and behavioral outcomes, particularly  motor responses, reinforcement patterns,specified  motor behaviors (e.g., posture, coordination) in order to:
+Compare how ABA and CBT address behavior triggers and reinforcement.
+Understand the mechanism of how these therapies influence motor skills.
+Exclusion criteria included:
+Children who have been in therapy less than 6 months, as effects on motor development may not be measurable yet.
+Exclude entries with incomplete or inconsistent responses that affect the reliability of the dataset.
+If the caregiver is not consistently involved in the child’s therapy or daily routines, they may not be able to provide accurate responses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4. Data Collection process
+ A structured questionnaire was designed and distributed online to caregivers, parents or therapists through online platforms. The tool included Likert-scale items measuring:
+Observed fine and gross motor, Hand-eye coordination,Postural control and motor planning improvements
+Perceived behavioral changes 
+
+
+
+
+
+
+

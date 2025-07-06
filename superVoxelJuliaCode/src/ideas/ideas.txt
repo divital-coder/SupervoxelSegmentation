@@ -1,0 +1,8 @@
+Non isovolumtric support
+We need to change trilinear interpolation and variance to such that support spacing
+When we will add support for non isovolumetric spacing remember to alter addition of cooridinate values in set_tetr_dat Lux layer call
+
+
+
+1) add sampling of image transformed by stationary wavelet transformed
+2) in the apply weights to loc_kern we can add parameters that look at the image and multiplies/add ... with vector of given direction to add to weights directionality info

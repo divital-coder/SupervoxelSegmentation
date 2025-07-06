@@ -1,0 +1,22 @@
+in prompt 
+explain algorithm 
+explain grammartell what is not allowed like conditionals
+explain how using tags indicate start and end of each step and what step need to do 
+explain how validity of the algorithm is verified 
+add summary and what new can be edded and best example - verify is the text not too long for context window 
+if so summarize one more time summary from analisis of previous tries.
+
+first summarize what was done and what was good but also create ideas that had not yet been tried 
+also select best example that passes grammar check; verify how many summaries of tries vllm can summarize at once 
+divide it and mapreduce ... 
+
+explicitely tell what else can be tried to increase flexibility of a shape
+use summary and best example get algorithm in 5 steps
+verify weather all steps are present make sense mathemathically and have proper structure and grammar
+if grammar error in a loop try to repair it 8 times if still wrong strart from step 2 one more time 
+after evaluating if error in watertight ofr line intersect examine which points contributed try to 
+    establish source of error 
+If correct comment on the flexibilty of a shape given weights and establish weather points are not colinear
+
+
+Try also asking to get old algorithm implemented in those steps and visualize it (additional points on a line between mobs)

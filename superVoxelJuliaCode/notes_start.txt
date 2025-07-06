@@ -1,0 +1,10 @@
+# Open Julia in the project directory
+cd("/workspaces/superVoxelJuliaCode_lin_sampl")
+
+# Start Julia REPL
+julia
+
+# In the Julia REPL:
+using Pkg
+Pkg.activate(".")  # Activate the current directory as project
+Pkg.instantiate() # Install all packages at versions specified in Manifest.toml

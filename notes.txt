@@ -1,0 +1,30 @@
+flux3d conversions
+https://fluxml.ai/Flux3D.jl/api/conversions/#Inter-Conversion-between-different-3D-Structure
+
+AD in manopt
+https://manoptjl.org/previews/PR94/pluto/AutomaticDifferentiation.html
+
+ceasar in manifolds.jl
+https://manoptjl.org/previews/PR94/pluto/AutomaticDifferentiation.html
+
+ceasar flux 
+https://github.com/JuliaRobotics/Caesar.jl/blob/master/docs/src/concepts/flux_factors.md
+
+semantic segmentation only image level labels
+pytorch 
+https://github.com/halbielee/SEC_pytorch
+ 
+ Multi-label Classification with Partial Annotations using Class-aware Selective Loss
+https://morioh.com/
+ 
+ Contrastive Vicinal Space for Unsupervised Domain Adaptation (ECCV 2022)
+ https://github.com/NaJaeMin92/CoVi
+ 
+Towards robust partially supervised multi-structure medical image segmentation on small-scale data - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S1568494621009789
+ 
+
+ Veryyyy good source 
+ http://pengxi.me/publications/
+
+ 

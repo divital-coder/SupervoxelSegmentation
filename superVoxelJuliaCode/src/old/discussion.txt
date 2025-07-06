@@ -1,0 +1,44 @@
+Open with interpretation of main findings:
+Improved accuracy over CAPRA alone
+Role of PSMA PET/CT variables
+Discussion of model performance metrics
+Compare to literature:
+Discuss lymph node patterns (from ESTRO-ACROP paper)
+Integration with existing risk stratification tools
+Value of SUVmax and anatomical findings
+Address specific variables:
+CAPRA scores adaptation
+SUVmax threshold selection
+Importance of lymph node locations
+Role of seminal vesicle infiltration
+Clinical implications:
+Risk stratification improvement
+Treatment planning impact
+Patient management changes
+Here's the discussion draft:
+
+Discussion
+
+This study demonstrates that integrating PSMA PET/CT findings with established risk stratification tools significantly improves prostate cancer progression prediction. Our naive Bayes model achieved a balanced accuracy of 0.73, outperforming both baseline CAPRA predictions (0.59) and conventional logistic regression (0.50). This improvement aligns with emerging evidence showing that molecular imaging parameters provide independent prognostic value beyond traditional clinical risk factors.
+
+The model's superior performance stems from several key innovations. First, we incorporated quantitative PSMA PET parameters, particularly SUVmax thresholded at 12.0, based on recent studies showing strong correlations between uptake intensity and disease aggressiveness. This approach is supported by data demonstrating that mean SUVmax values are associated with lower risk of biochemical progression (hazard ratio range: 0.77–0.95; P = 0.03-0.04). Recent publications report that corrected PSMA parameters, including maximum SUVmean and PSMA scores, are significantly associated with biochemical progression-free survival.
+
+Our model's emphasis on lymph node location and distribution reflects current understanding of progression patterns. The ESTRO-ACROP guidelines highlight that lymph nodes represent the most frequent site of failure, with internal iliac (28.1%), external iliac (17.9%), and periaortic (17.3%) regions being most commonly involved. By incorporating specific nodal locations, particularly extrapelvic involvement which carries a 5-fold higher risk of treatment failure, our model captures this crucial prognostic information.
+
+Additionally, further studies of PSMA PET/CT emphasize that men presenting with lymph node involvement beyond the pelvis have up to a fivefold higher risk of requiring secondary treatments within 29 months. This finding underscores the importance of integrating extrapelvic nodal detection into risk models to better guide locoregional versus systemic therapy. Moreover, literature supports including total PSMA-derived tumor volume parameters for refining prognostic accuracy, with reported C-index improvements of up to 0.82 in certain validation cohorts, even when controlling for known variables such as Gleason score and PSA level.
+
+Our results align with emerging risk calculators that combine clinical parameters (e.g., CAPRA or modified J-CAPRA) with PSMA PET findings, demonstrating improved AUC values (≥0.87) for high-risk or oligometastatic disease. These calculators typically account for SUV-based metrics, lesion location, and established clinical data, providing a more individualized approach than using standard scoring tools alone. Notably, evidence indicates that the detection of PSMA-avid seminal vesicle infiltration can significantly shift management decisions, consistent with our observation that handling SVI as an independent factor strengthens model specificity.
+
+A key innovation is our treatment of seminal vesicle infiltration (SVI) as an independent variable rather than merely a component of T-staging. Recent anatomical studies demonstrate that SVI patterns strongly correlate with disease progression, and our approach allows more nuanced risk assessment than traditional classification schemes that simply group SVI with T3b disease.
+
+The model's ability to handle missing clinical data through imaging surrogates addresses a common challenge in clinical practice. This is particularly relevant given recent evidence showing that PSMA PET/CT findings can change management in 29-73% of cases, with demonstrated improvements in survival outcomes (Δ 4-yr disease-free survival by 24.3%, Δ 6-mo metastasis-free survival by 46.7%).
+
+Notably, combining clinical parameters with imaging findings improved predictive accuracy more than either modality alone. This mirrors recent studies showing that integrated risk calculators incorporating both PSMA PET/CT and clinical data achieve superior AUC values (0.876 for clinically significant disease) compared to traditional risk assessment tools.
+
+The stronger specificity (0.86) versus sensitivity (0.60) of our model suggests particular utility in identifying lower-risk patients who might avoid overtreatment. This characteristic is especially valuable given emerging evidence that patients with negative or low-uptake PSMA PET scans have significantly better outcomes with conservative management.
+
+Limitations include the retrospective nature of our analysis and the need for prospective validation of our SUVmax threshold and weighting strategy. Future research should explore integration of additional PSMA parameters such as total PSMA-derived tumor volume, which recent studies suggest may provide independent prognostic value.
+
+Future directions include prospective external validation of this integrated approach, evaluating whether early treatment intensification guided by elevated PSMA SUVmax or large tumor volumes further reduces progression. Such validation will help standardize SUV thresholds across institutions and define optimal time points for PSMA PET–based restaging. Ultimately, comprehensive incorporation of molecular imaging markers into well-established clinical frameworks may bridge the gap between traditional risk stratification and the evolving landscape of precision medicine in prostate cancer management.
+
+In conclusion, our probabilistic model combining PSMA PET/CT findings with traditional risk factors represents a significant advance in prostate cancer risk stratification. By incorporating quantitative imaging parameters and specific anatomical patterns while maintaining interpretability, it provides a practical framework for precision medicine in prostate cancer management. These findings support the growing role of molecular imaging in treatment decision-making while offering a structured approach to integrating complex imaging data into clinical practice.
